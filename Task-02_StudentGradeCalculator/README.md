@@ -4,30 +4,30 @@ A Java console application that takes student details, subjects, and marks as in
 
 ## Features:
 
-Student information input (name, roll number)
+- Student information input (name, roll number)
 
-Multiple subjects support
+- Multiple subjects support
 
-Marks input with validation (0–100 range)
+- Marks input with validation (0–100 range)
 
-Exception handling for invalid input
+- Exception handling for invalid input
 
-Automatic calculation of total and average
+- Automatic calculation of total and average
 
-Grade and CGPA generation
+- Grade and CGPA generation
 
-PASS/FAIL result display
+- PASS/FAIL result display
 
-Performance remarks based on score
+- Performance remarks based on score
 
 ## Concepts Used:
 
-Arrays
+- Arrays
 
-Loops
+- Loops
 
-Conditional Statements
+- Conditional Statements
 
-Scanner Class
+- Scanner Class
 
 Exception Handling
