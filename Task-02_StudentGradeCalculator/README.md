@@ -2,7 +2,7 @@ Student Grade Calculator
 
 A Java console application that takes student details, subjects, and marks as input and calculates total marks, percentage, grade, CGPA, and final result.
 
-Features:
+## Features:
 
 Student information input (name, roll number)
 
