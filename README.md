@@ -4,11 +4,11 @@ This repository contains all tasks and projects completed during my Decode Labs 
 
 ## Tasks
 
-| Task No | Project |
-|-------------------|
-| Task 1 | "Number Guessing Game" 
-| Task 2 | "Student Grade Calculator" 
-| Task 3 | Coming Soon......... 
+ Task 1 : "Number Guessing Game" 
+
+Task 2 : "Student Grade Calculator" 
+
+ Task 3 : Coming Soon......... 
 
 ## Technologies Used
 
