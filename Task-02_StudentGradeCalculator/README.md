@@ -20,7 +20,7 @@ PASS/FAIL result display
 
 Performance remarks based on score
 
-Concepts Used:
+## Concepts Used:
 
 Arrays
 
