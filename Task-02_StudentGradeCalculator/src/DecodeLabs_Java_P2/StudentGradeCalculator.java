@@ -22,7 +22,7 @@ public class StudentGradeCalculator {
         int n = 0;
         double cgpa;
 
-        // Exception handling for number of subjects
+        // Exception handling for number of subjects//
         while (true) {
             try {
                 System.out.print("Enter Number of Subjects: ");
@@ -47,7 +47,7 @@ public class StudentGradeCalculator {
 
         double total = 0;
 
-        // Input subject names and marks
+        // Input subject names and marks //
         for (int i = 0; i < n; i++) {
 
             System.out.println("\nSubject " + (i + 1));
