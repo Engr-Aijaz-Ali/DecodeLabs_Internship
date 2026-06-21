@@ -16,3 +16,7 @@ This repository contains projects developed during my internship, focusing on Ja
 * Swing (GUI)
 
 These projects were built to strengthen programming fundamentals and practical application development skills.
+
+## Author:
+Aijaz Ali
+Computer Systems Engineering Student @ Mehran University of Engineering and Technology, Jamshoro
