@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Task-02_StudentGradeCalculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Task-03_ATMInterface/DecodeLabs_Java_P3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Task-04_CurrencyConverter/DecodeLabs_Java_P4" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
