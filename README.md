@@ -1,26 +1,18 @@
-# Decode Labs Internship
+# DecodeLabs Internship Projects
 
-This repository contains all tasks and projects completed during my Decode Labs Internship.
+This repository contains projects developed during my internship, focusing on Java programming and problem-solving.
 
-## Tasks
+## Projects Included
 
- Task 1 : "Number Guessing Game" 
-
-Task 2 : "Student Grade Calculator" 
-
- Task 3 : Coming Soon......... 
+* 🎯 Number Guessing Game
+* 📊 Student Grade Calculator
+* 🏧 ATM Interface
+* 💱 Currency Converter
 
 ## Technologies Used
 
-- Java
-- IntelliJ IDEA
-- Git
-- GitHub
+* Java
+* Object-Oriented Programming (OOP)
+* Swing (GUI)
 
-## Author
-
-**Aijaz Ali**
-
-Computer Systems Engineering Student
-
-Mehran University of Engineering and Technology, Jamshoro
+These projects were built to strengthen programming fundamentals and practical application development skills.
